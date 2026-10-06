@@ -1,0 +1,11 @@
+torch
+transformers<5.0
+tensorboard
+s2sphere
+pandas
+pillow
+folium
+tqdm
+geoclip
+peft
+matplotlib
